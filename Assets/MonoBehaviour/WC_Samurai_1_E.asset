@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a55efa6b0794bf041b50e8497e0b715c, type: 3}
+  m_Name: WC_Samurai_1_E
+  m_EditorClassIdentifier:
+  m_worldStartInfo:
+    m_roleIndex: 17
+    m_StartAnimTime: 3.4
+    m_EndAnimTime: 5
+    m_BackgroundIndex: 0
+    m_preloadRoleIndexList: 11000000
+    CoupleRoleIndex: 0
+    m_ifLerpEmission: 0
+    m_delayEmissionTime: 0
+    m_lerpEmissionTime: 0
+    m_beginEmissionValue: 0
+    m_endEmissionValue: 0
+    m_levelDeltaLength: -8
+    m_petID: 0
+    m_showRow: 100
+    m_fairyStartRunDelay: 0
+  m_defaultThemeIndex: 0
+  m_themes:
+  - m_index: 0
+    m_timeTaken: 2
+    m_themeLight:
+      m_isLight: 0
+      m_lightColor: {r: 0.45263842, g: 0.4989202, b: 0.6691177, a: 1}
+      m_intensity: 1
+      m_shadowStrength: 1
+      m_rotation: {x: 22.75796, y: 121.436, z: 352.98825}
+      m_ifLightOn: 1
+    m_themeFog:
+      m_isFog: 1
+      m_fogColor: {r: 0.007843138, g: 0.12941177, b: 0.29411766, a: 0}
+      m_fogStartDistance: 30
+      m_fogEndDistance: 60
+    m_themeCamera:
+      m_isCameraColor: 1
+      m_backGround: {r: 0, g: 0, b: 0, a: 0}
+    m_themeSkyBox:
+      m_isSkyBox: 1
+      m_SkyBoxMaterial: {fileID: 2100000, guid: 46be42fc150a47949a63044fe987a406, type: 2}
+      m_BlendLerp: 1
+      m_skyColor: {r: 0.39851862, g: 0.5123568, b: 0.6691177, a: 1}
+      m_EquatorColor: {r: 0.97794116, g: 0.77362484, b: 0.23729454, a: 1}
+      m_GroundColor: {r: 0.7205882, g: 0.40253547, b: 0, a: 1}
+      m_ReflectionIntensity: 1
+      m_Cubemap: {fileID: 8900000, guid: 95e5cb5863755a34aaef93f697d8a6a0, type: 3}
+  - m_index: 1
+    m_timeTaken: 5
+    m_themeLight:
+      m_isLight: 0
+      m_lightColor: {r: 0.9662272, g: 1, b: 0.9338235, a: 0}
+      m_intensity: 1
+      m_shadowStrength: 1
+      m_rotation: {x: 22.75796, y: 121.436, z: 352.98825}
+      m_ifLightOn: 0
+    m_themeFog:
+      m_isFog: 1
+      m_fogColor: {r: 0.06985295, g: 0.2794118, b: 0.22702208, a: 1}
+      m_fogStartDistance: 20
+      m_fogEndDistance: 45
+    m_themeCamera:
+      m_isCameraColor: 1
+      m_backGround: {r: 0.6666667, g: 0.69411767, b: 0.9647059, a: 1}
+    m_themeSkyBox:
+      m_isSkyBox: 1
+      m_SkyBoxMaterial: {fileID: 2100000, guid: 01a2cc42a79254e46ad3790f63506648, type: 2}
+      m_BlendLerp: 1
+      m_skyColor: {r: 0.6666667, g: 0.69411767, b: 0.9647059, a: 1}
+      m_EquatorColor: {r: 0.38039216, g: 0.58431375, b: 0.67058825, a: 1}
+      m_GroundColor: {r: 0.22352941, g: 0.44705883, b: 0.4117647, a: 1}
+      m_ReflectionIntensity: 1
+      m_Cubemap: {fileID: 8900000, guid: 95e5cb5863755a34aaef93f697d8a6a0, type: 3}
+  - m_index: 2
+    m_timeTaken: 2
+    m_themeLight:
+      m_isLight: 0
+      m_lightColor: {r: 0.9662272, g: 1, b: 0.9338235, a: 0}
+      m_intensity: 1
+      m_shadowStrength: 1
+      m_rotation: {x: 22.75796, y: 121.436, z: 352.98825}
+      m_ifLightOn: 0
+    m_themeFog:
+      m_isFog: 1
+      m_fogColor: {r: 0.10492487, g: 0.097642735, b: 0.30882353, a: 0}
+      m_fogStartDistance: 20
+      m_fogEndDistance: 40
+    m_themeCamera:
+      m_isCameraColor: 1
+      m_backGround: {r: 0.8897059, g: 0.5801135, b: 0.4121432, a: 0}
+    m_themeSkyBox:
+      m_isSkyBox: 1
+      m_SkyBoxMaterial: {fileID: 2100000, guid: 97192c773f6399843979f78b0a9cc13d, type: 2}
+      m_BlendLerp: 1
+      m_skyColor: {r: 0.86764705, g: 0.66745466, b: 0.4529628, a: 0}
+      m_EquatorColor: {r: 1, g: 1, b: 1, a: 0}
+      m_GroundColor: {r: 1, g: 1, b: 1, a: 0}
+      m_ReflectionIntensity: 1
+      m_Cubemap: {fileID: 8900000, guid: 95e5cb5863755a34aaef93f697d8a6a0, type: 3}
+  - m_index: 3
+    m_timeTaken: 2
+    m_themeLight:
+      m_isLight: 0
+      m_lightColor: {r: 0.9662272, g: 1, b: 0.9338235, a: 0}
+      m_intensity: 1
+      m_shadowStrength: 1
+      m_rotation: {x: 22.75796, y: 121.436, z: 352.98825}
+      m_ifLightOn: 0
+    m_themeFog:
+      m_isFog: 1
+      m_fogColor: {r: 0.16770515, g: 0.028006053, b: 0.27205884, a: 1}
+      m_fogStartDistance: 20
+      m_fogEndDistance: 50
+    m_themeCamera:
+      m_isCameraColor: 1
+      m_backGround: {r: 0.16770515, g: 0.028006053, b: 0.27205884, a: 1}
+    m_themeSkyBox:
+      m_isSkyBox: 1
+      m_SkyBoxMaterial: {fileID: 2100000, guid: f263f3e257744fe4692bfbc486615264, type: 2}
+      m_BlendLerp: 1
+      m_skyColor: {r: 0.6666667, g: 0.69411767, b: 0.9647059, a: 1}
+      m_EquatorColor: {r: 0.38039216, g: 0.58431375, b: 0.67058825, a: 1}
+      m_GroundColor: {r: 0.22352941, g: 0.44705883, b: 0.4117647, a: 1}
+      m_ReflectionIntensity: 1
+      m_Cubemap: {fileID: 8900000, guid: 95e5cb5863755a34aaef93f697d8a6a0, type: 3}
+  - m_index: 4
+    m_timeTaken: 2
+    m_themeLight:
+      m_isLight: 0
+      m_lightColor: {r: 0.9662272, g: 1, b: 0.9338235, a: 0}
+      m_intensity: 1
+      m_shadowStrength: 1
+      m_rotation: {x: 22.75796, y: 121.436, z: 352.98825}
+      m_ifLightOn: 0
+    m_themeFog:
+      m_isFog: 1
+      m_fogColor: {r: 0.25882354, g: 0.011764707, b: 0.0627451, a: 0}
+      m_fogStartDistance: 5
+      m_fogEndDistance: 30
+    m_themeCamera:
+      m_isCameraColor: 1
+      m_backGround: {r: 0.25882354, g: 0.011764707, b: 0.0627451, a: 0}
+    m_themeSkyBox:
+      m_isSkyBox: 1
+      m_SkyBoxMaterial: {fileID: 2100000, guid: d74c916bd61950c4688219a7567fc759, type: 2}
+      m_BlendLerp: 1
+      m_skyColor: {r: 0.37321582, g: 0.45719486, b: 0.8602941, a: 1}
+      m_EquatorColor: {r: 0.37321582, g: 0.45719486, b: 0.8602941, a: 1}
+      m_GroundColor: {r: 0.37321582, g: 0.45719486, b: 0.8602941, a: 1}
+      m_ReflectionIntensity: 1
+      m_Cubemap: {fileID: 8900000, guid: 95e5cb5863755a34aaef93f697d8a6a0, type: 3}

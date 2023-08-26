@@ -1,0 +1,7 @@
+Assets/_RS2Art/Res/Base/Music/Samurai.wav
+Assets/_RS2Art/Res/Base/RoleConfigure/RoleSamurai.asset
+Assets/_RS2Art/Res/Prefab/Roles/RoleSamurai.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropShield.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropRebirth.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropPathGuide.prefab
+

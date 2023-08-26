@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+PrefabInstance:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_RootGameObject: {fileID: 1688707383974262}
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+--- !u!1 &1688707383974262
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4982474637608427}
+  - component: {fileID: 114178481528236500}
+  m_Layer: 0
+  m_Name: LevelRes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4982474637608427
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1688707383974262}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114178481528236500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1688707383974262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aabb3a4cea85b647abe3fe131eadba4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  m_LevelResourceTable: {fileID: 4900000, guid: ef12085a2a874ef4998c9e3a86c905f8, type: 3}
+  m_Tilemap: {fileID: 11400000, guid: b5bb3d4e14922604695ace01bc93eb61, type: 2}
+  m_worldConfigureTable: {fileID: 11400000, guid: cc90cb3e228787c4bab13b9c2c2c9b3f, type: 2}
+  m_originRebirthData: {fileID: 11400000, guid: 9d7a37a1dcf9575489c4d6c7c1da0fdd, type: 2}
+  m_rolePathTable: {fileID: 11400000, guid: daa9858d2588fe8438c5445b84a019c5, type: 2}

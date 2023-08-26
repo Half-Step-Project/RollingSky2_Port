@@ -1,0 +1,7 @@
+Assets/_RS2Art/Res/Base/Music/Home_Rainbow.wav
+Assets/_RS2Art/Res/Base/RoleConfigure/RoleRainbow.asset
+Assets/_RS2Art/Res/Prefab/Roles/RoleRainbow.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropShield.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropRebirth.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropPathGuide.prefab
+Assets/_RS2Art/Res/Prefab/Backgrounds/Back_Rainbow_Sky.prefab

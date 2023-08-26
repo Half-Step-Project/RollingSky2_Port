@@ -1,0 +1,8 @@
+Assets/_RS2Art/Res/Base/Music/Home_Homeland.wav
+Assets/_RS2Art/Res/Base/RoleConfigure/RoleHome.asset
+Assets/_RS2Art/Res/Prefab/Roles/RoleHome.prefab
+Assets/_RS2Art/Res/Prefab/Pets/PetEagle.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropShield.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropRebirth.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropPathGuide.prefab
+Assets/_RS2Art/Res/Prefab/Backgrounds/Back_BaiRiMeng_Sky.prefab

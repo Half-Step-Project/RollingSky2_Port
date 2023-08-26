@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a55efa6b0794bf041b50e8497e0b715c, type: 3}
+  m_Name: WC_Fantasia_Jazz_N
+  m_EditorClassIdentifier:
+  m_worldStartInfo:
+    m_roleIndex: 10
+    m_StartAnimTime: 2.84
+    m_EndAnimTime: 4
+    m_BackgroundIndex: -1
+    m_preloadRoleIndexList: 0a000000
+    CoupleRoleIndex: 0
+    m_ifLerpEmission: 0
+    m_delayEmissionTime: 0
+    m_lerpEmissionTime: 0
+    m_beginEmissionValue: 0
+    m_endEmissionValue: 0
+    m_levelDeltaLength: 8
+    m_petID: 0
+    m_showRow: 75
+    m_fairyStartRunDelay: 0
+  m_defaultThemeIndex: 1
+  m_themes:
+  - m_index: 1
+    m_timeTaken: 3
+    m_themeLight:
+      m_isLight: 0
+      m_lightColor: {r: 0, g: 0, b: 0, a: 0}
+      m_intensity: 1
+      m_shadowStrength: 0
+      m_rotation: {x: 49.999954, y: 115.37181, z: 4.9999323}
+      m_ifLightOn: 0
+    m_themeFog:
+      m_isFog: 1
+      m_fogColor: {r: 0.029411793, g: 0.029411793, b: 0.029411793, a: 0}
+      m_fogStartDistance: 5
+      m_fogEndDistance: 60
+    m_themeCamera:
+      m_isCameraColor: 1
+      m_backGround: {r: 0, g: 0, b: 0, a: 0}
+    m_themeSkyBox:
+      m_isSkyBox: 1
+      m_SkyBoxMaterial: {fileID: 2100000, guid: 8ebd251374a66ad4bb7c8d3e14cc7a24, type: 2}
+      m_BlendLerp: 1
+      m_skyColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      m_EquatorColor: {r: 0, g: 0, b: 0, a: 1}
+      m_GroundColor: {r: 0, g: 0, b: 0, a: 1}
+      m_ReflectionIntensity: 1
+      m_Cubemap: {fileID: 8900000, guid: 95e5cb5863755a34aaef93f697d8a6a0, type: 3}
+  - m_index: 2
+    m_timeTaken: 3
+    m_themeLight:
+      m_isLight: 0
+      m_lightColor: {r: 0, g: 0, b: 0, a: 0}
+      m_intensity: 1
+      m_shadowStrength: 0
+      m_rotation: {x: 49.999954, y: 115.37181, z: 4.9999323}
+      m_ifLightOn: 0
+    m_themeFog:
+      m_isFog: 1
+      m_fogColor: {r: 0.14901961, g: 0.14901961, b: 0.14901961, a: 0}
+      m_fogStartDistance: 5
+      m_fogEndDistance: 60
+    m_themeCamera:
+      m_isCameraColor: 1
+      m_backGround: {r: 0, g: 0, b: 0, a: 0}
+    m_themeSkyBox:
+      m_isSkyBox: 1
+      m_SkyBoxMaterial: {fileID: 2100000, guid: cc955f9a53e4fbc459c6ddcd9996398a, type: 2}
+      m_BlendLerp: 1
+      m_skyColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      m_EquatorColor: {r: 0, g: 0, b: 0, a: 1}
+      m_GroundColor: {r: 0, g: 0, b: 0, a: 1}
+      m_ReflectionIntensity: 1
+      m_Cubemap: {fileID: 8900000, guid: 95e5cb5863755a34aaef93f697d8a6a0, type: 3}
+  - m_index: 3
+    m_timeTaken: 3
+    m_themeLight:
+      m_isLight: 0
+      m_lightColor: {r: 0, g: 0, b: 0, a: 0}
+      m_intensity: 1
+      m_shadowStrength: 0
+      m_rotation: {x: 49.999954, y: 115.37181, z: 4.9999323}
+      m_ifLightOn: 0
+    m_themeFog:
+      m_isFog: 1
+      m_fogColor: {r: 0.19852942, g: 0.19852942, b: 0.19852942, a: 0}
+      m_fogStartDistance: 5
+      m_fogEndDistance: 45
+    m_themeCamera:
+      m_isCameraColor: 1
+      m_backGround: {r: 0, g: 0, b: 0, a: 0}
+    m_themeSkyBox:
+      m_isSkyBox: 1
+      m_SkyBoxMaterial: {fileID: 2100000, guid: a42b24aea1c638c46b6cc243cd0750fd, type: 2}
+      m_BlendLerp: 1
+      m_skyColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      m_EquatorColor: {r: 0, g: 0, b: 0, a: 1}
+      m_GroundColor: {r: 0, g: 0, b: 0, a: 1}
+      m_ReflectionIntensity: 1
+      m_Cubemap: {fileID: 8900000, guid: 95e5cb5863755a34aaef93f697d8a6a0, type: 3}
+  - m_index: 4
+    m_timeTaken: 3
+    m_themeLight:
+      m_isLight: 0
+      m_lightColor: {r: 0, g: 0, b: 0, a: 0}
+      m_intensity: 1
+      m_shadowStrength: 0
+      m_rotation: {x: 49.999954, y: 115.37181, z: 4.9999323}
+      m_ifLightOn: 0
+    m_themeFog:
+      m_isFog: 1
+      m_fogColor: {r: 0.1254902, g: 0.1254902, b: 0.1254902, a: 0}
+      m_fogStartDistance: 5
+      m_fogEndDistance: 60
+    m_themeCamera:
+      m_isCameraColor: 1
+      m_backGround: {r: 0, g: 0, b: 0, a: 0}
+    m_themeSkyBox:
+      m_isSkyBox: 1
+      m_SkyBoxMaterial: {fileID: 2100000, guid: 11f2c95f17592a04c8fb0d4a2b8dda3b, type: 2}
+      m_BlendLerp: 1
+      m_skyColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      m_EquatorColor: {r: 0, g: 0, b: 0, a: 1}
+      m_GroundColor: {r: 0, g: 0, b: 0, a: 1}
+      m_ReflectionIntensity: 1
+      m_Cubemap: {fileID: 8900000, guid: 95e5cb5863755a34aaef93f697d8a6a0, type: 3}
+  - m_index: 5
+    m_timeTaken: 2.5
+    m_themeLight:
+      m_isLight: 0
+      m_lightColor: {r: 0, g: 0, b: 0, a: 0}
+      m_intensity: 1
+      m_shadowStrength: 0
+      m_rotation: {x: 49.999954, y: 115.37181, z: 4.9999323}
+      m_ifLightOn: 0
+    m_themeFog:
+      m_isFog: 1
+      m_fogColor: {r: 0.53676474, g: 0.4925606, b: 0.37099916, a: 0}
+      m_fogStartDistance: 5
+      m_fogEndDistance: 80
+    m_themeCamera:
+      m_isCameraColor: 1
+      m_backGround: {r: 0, g: 0, b: 0, a: 0}
+    m_themeSkyBox:
+      m_isSkyBox: 1
+      m_SkyBoxMaterial: {fileID: 2100000, guid: c2bf92041bf932842b12588f81152f46, type: 2}
+      m_BlendLerp: 1
+      m_skyColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      m_EquatorColor: {r: 0, g: 0, b: 0, a: 1}
+      m_GroundColor: {r: 0, g: 0, b: 0, a: 1}
+      m_ReflectionIntensity: 1
+      m_Cubemap: {fileID: 8900000, guid: 95e5cb5863755a34aaef93f697d8a6a0, type: 3}
+  - m_index: 6
+    m_timeTaken: 3
+    m_themeLight:
+      m_isLight: 0
+      m_lightColor: {r: 0, g: 0, b: 0, a: 0}
+      m_intensity: 1
+      m_shadowStrength: 0
+      m_rotation: {x: 49.999954, y: 115.37181, z: 4.9999323}
+      m_ifLightOn: 0
+    m_themeFog:
+      m_isFog: 1
+      m_fogColor: {r: 0.04411763, g: 0.04411763, b: 0.04411763, a: 0}
+      m_fogStartDistance: 5
+      m_fogEndDistance: 60
+    m_themeCamera:
+      m_isCameraColor: 1
+      m_backGround: {r: 0, g: 0, b: 0, a: 0}
+    m_themeSkyBox:
+      m_isSkyBox: 1
+      m_SkyBoxMaterial: {fileID: 2100000, guid: 70c436b2135ae99419d4ef10d74a1935, type: 2}
+      m_BlendLerp: 1
+      m_skyColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      m_EquatorColor: {r: 0, g: 0, b: 0, a: 1}
+      m_GroundColor: {r: 0, g: 0, b: 0, a: 1}
+      m_ReflectionIntensity: 1
+      m_Cubemap: {fileID: 8900000, guid: 95e5cb5863755a34aaef93f697d8a6a0, type: 3}

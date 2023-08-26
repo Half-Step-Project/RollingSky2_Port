@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+PrefabInstance:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_RootGameObject: {fileID: 1517227180462160}
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+--- !u!1 &1517227180462160
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4160817154817679}
+  - component: {fileID: 114956351546363658}
+  m_Layer: 0
+  m_Name: MaterialContoller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4160817154817679
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1517227180462160}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.5, y: 0.5, z: 32.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114956351546363658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1517227180462160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf24024b8277d547b7e8ccc616150fb, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  m_state: 0
+  m_targetMaterials:
+  - {fileID: 2100000, guid: d74e756cc0af21f4c9ceb10e7430445f, type: 2}
+  - {fileID: 2100000, guid: 2160cf77a9670804f85cc1ea903c0b4c, type: 2}
+  - {fileID: 2100000, guid: 2cc79f440d99e5a45bcdc4d7b2b164a0, type: 2}
+  - {fileID: 2100000, guid: e19b44b51ce1a4e40bcd75afbf4478cd, type: 2}
+  - {fileID: 2100000, guid: 9029ec9887c430f449372613f342b77f, type: 2}
+  - {fileID: 2100000, guid: 2bd2c681edbead942aedbe1772396787, type: 2}
+  - {fileID: 2100000, guid: 25b5b9c49309d1f4192ad56858204435, type: 2}
+  - {fileID: 2100000, guid: 08ab0e1555b94bf4aaa498eb01c5d263, type: 2}
+  - {fileID: 2100000, guid: db6b82391c3de4548b86853e65b924cd, type: 2}

@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RainbowBlankMat_CaiDai
+  m_Shader: {fileID: 4800000, guid: cd79c5d134b11e540ba151739e74cea6, type: 3}
+  m_ShaderKeywords: _MODE_OPAQUE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3900
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 975e820687d80294f8ccffc7ceeecca0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 2800000, guid: 2476bc6cb9a41014bb97ad96b7c56632, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AmbientColorPower: 1
+    - _BrightnessOffset: 1
+    - _BumpScale: 1
+    - _ColorInstensity: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DiffusePower: 1
+    - _DissolveRange: 0.7
+    - _DstBlend: 10
+    - _Emmission: 0
+    - _EnableCurvedWorld: 0
+    - _EnableDiffuse: 0
+    - _EnableFog: 0
+    - _EnableFresnel: 0
+    - _EnableRim: 0
+    - _EnableSpecular: 0
+    - _EndOffset: 0
+    - _FadeOutRange: 1
+    - _FakeLight: 0
+    - _FresnelPower: 1
+    - _FresnelScale: 0.03
+    - _Gloss: 8
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 1
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Progress: 1
+    - _Range: 0.9
+    - _RimAllPower: 1
+    - _RimAlpha: 1
+    - _RimAlphaPower: 4
+    - _RimInnerColorPower: 0.5
+    - _RimPower: 2.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SpecularPower: 1
+    - _SrcBlend: 5
+    - _StartOffset: 5
+    - _Type: 0
+    - _UVSec: 0
+    - _VLength: 30
+    - _ZPositiveDir: 0
+    - _ZTest: 4
+    - _ZWrite: 0
+    - _modelHeight: 1.3
+    - _modelY: 13
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 0.997}
+    - _ColorB: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+    - _ColorR: {r: 1, g: 1, b: 1, a: 1}
+    - _DissolveEdgeInnerColor: {r: 0.6423459, g: 0.36607915, b: 0.8161765, a: 0.007843138}
+    - _DissolveEdgeOutterColor: {r: 0.4852941, g: 0.27119377, b: 0.2756235, a: 0.007843138}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FakeLightColor: {r: 0.765, g: 0.765, b: 0.765, a: 1}
+    - _FakeLightDir: {r: -0.43, g: 0.766, b: -0.478, a: 0}
+    - _FresnelColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _RimInnerColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}

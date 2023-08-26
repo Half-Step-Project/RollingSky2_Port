@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+PrefabInstance:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_RootGameObject: {fileID: 1583293116127569}
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+--- !u!1 &1583293116127569
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4414121219134241}
+  - component: {fileID: 114621646557443115}
+  m_Layer: 0
+  m_Name: LevelRes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4414121219134241
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1583293116127569}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114621646557443115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1583293116127569}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aabb3a4cea85b647abe3fe131eadba4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  m_LevelResourceTable: {fileID: 4900000, guid: 93941b81faafa404da71e4cab923e843, type: 3}
+  m_Tilemap: {fileID: 11400000, guid: 1b011167f7178bd4aa3cd571bdd9493d, type: 2}
+  m_worldConfigureTable: {fileID: 11400000, guid: 0df9c5ad6be088047a659c6197fed11c, type: 2}
+  m_originRebirthData: {fileID: 11400000, guid: e94e968ae45182a4eb1e4d165e217da4, type: 2}
+  m_rolePathTable: {fileID: 11400000, guid: 6aadf6e59b75e4d4faf46dd79d46e08f, type: 2}

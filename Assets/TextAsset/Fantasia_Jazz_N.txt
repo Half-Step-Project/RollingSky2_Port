@@ -1,0 +1,6 @@
+Assets/_RS2Art/Res/Base/Music/Fantasia_Jazz.wav
+Assets/_RS2Art/Res/Base/RoleConfigure/RoleJazz.asset
+Assets/_RS2Art/Res/Prefab/Roles/RoleJazz.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropShield.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropRebirth.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropPathGuide.prefab

@@ -1,0 +1,12 @@
+internal enum LevelTargetType
+{
+	PERCENT = 1,
+	DIAMOND_NUM,
+	CROWN_NUM,
+	USE_ROLE,
+	USE_CLOTH,
+	USE_PET,
+	USE_GOODS,
+	REFRESH_RECORD,
+	GET_STARS
+}

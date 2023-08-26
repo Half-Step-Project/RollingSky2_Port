@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+  <Dictionary Language="English" Font="AvenirNextCondensedRegular">
+    <String Key="BuiltinDialog.ConfirmButton" Value="Confirm" />
+    <String Key="BuiltinDialog.CancelButton" Value="Cancel" />
+    <String Key="ForceUpdate.Message" Value="Your current game version is out of date, go update it now?" />
+    <String Key="ForceUpdate.UpdateButton" Value="Update" />
+    <String Key="ForceUpdate.QuitButton" Value="Exit" />
+    <String Key="CheckVersion.Tips" Value="Checking updates, please wait a moment..." />
+	  <String Key="UpdateProcedure.RequestVersionInfo" Value="Requesting version info..." />
+	  <String Key="UpdateProcedure.GetResourceVersionFile" Value="Obtaining recourse version files." />
+	  <String Key="UpdateProcedure.CheckResource" Value="Checking recourse." />
+	  <String Key="UpdateProcedure.UpdateProgress" Value="Update progress {0}/{1}" />
+	  <String Key="UpdateProcedure.NeedHowManyResoure" Value="Need to update recourse {0}KB" />
+    <String Key="PreloadProcedure.PreloadData" Value="Loading data" />
+    <String Key="PreloadProcedure.AlertHead" Value="Please use headphones for best experience" />
+  </Dictionary>
+  <Dictionary Language="Chinese" Font="HYQiHeiX2-45W">
+    <String Key="BuiltinDialog.ConfirmButton" Value="确定" />
+    <String Key="BuiltinDialog.CancelButton" Value="取消" />
+    <String Key="ForceUpdate.Message" Value="当前游戏版本过旧，是否前往更新？" />
+    <String Key="ForceUpdate.UpdateButton" Value="更新" />
+    <String Key="ForceUpdate.QuitButton" Value="退出" />
+    <String Key="CheckVersion.Tips" Value="正在检查游戏是否需要更新，请稍候……" />
+    <String Key="UpdateProcedure.RequestVersionInfo" Value="正在请求版本信息." />
+    <String Key="UpdateProcedure.GetResourceVersionFile" Value="获取资源版本文件." />
+    <String Key="UpdateProcedure.CheckResource" Value="检查资源." />
+    <String Key="UpdateProcedure.UpdateProgress" Value="更新进度{0}/{1}" />
+    <String Key="UpdateProcedure.NeedHowManyResoure" Value="需要更新资源{0}KB" />
+    <String Key="PreloadProcedure.PreloadData" Value="加载数据" />
+    <String Key="PreloadProcedure.AlertHead" Value="请佩戴耳机，享受最佳游戏体验" />
+  </Dictionary>
+  <Dictionary Language="ChineseSimplified" Font="HYQiHeiX2-45W">
+    <String Key="BuiltinDialog.ConfirmButton" Value="确定" />
+    <String Key="BuiltinDialog.CancelButton" Value="取消" />
+    <String Key="ForceUpdate.Message" Value="当前游戏版本过旧，是否前往更新？" />
+    <String Key="ForceUpdate.UpdateButton" Value="更新" />
+    <String Key="ForceUpdate.QuitButton" Value="退出" />
+    <String Key="CheckVersion.Tips" Value="正在检查游戏是否需要更新，请稍候……" />
+	  <String Key="UpdateProcedure.RequestVersionInfo" Value="正在请求版本信息." />
+	  <String Key="UpdateProcedure.GetResourceVersionFile" Value="获取资源版本文件." />
+	  <String Key="UpdateProcedure.CheckResource" Value="检查资源." />
+	  <String Key="UpdateProcedure.UpdateProgress" Value="更新进度{0}/{1}" />
+	  <String Key="UpdateProcedure.NeedHowManyResoure" Value="需要更新资源{0}KB" />
+    <String Key="PreloadProcedure.PreloadData" Value="加载数据" />
+    <String Key="PreloadProcedure.AlertHead" Value="请佩戴耳机，享受最佳游戏体验" />
+  </Dictionary>
+  <Dictionary Language="ChineseTraditional" Font="HYQiHeiX2-45W">
+    <String Key="BuiltinDialog.ConfirmButton" Value="確定" />
+    <String Key="BuiltinDialog.CancelButton" Value="取消" />
+    <String Key="ForceUpdate.Message" Value="當前遊戲版本過舊，是否前往更新？" />
+    <String Key="ForceUpdate.UpdateButton" Value="更新" />
+    <String Key="ForceUpdate.QuitButton" Value="退出" />
+    <String Key="CheckVersion.Tips" Value="正在檢查遊戲是否需要更新，請稍候……" />
+    <String Key="UpdateProcedure.RequestVersionInfo" Value="正在請求版本信息." />
+    <String Key="UpdateProcedure.GetResourceVersionFile" Value="獲取資源版本文件." />
+    <String Key="UpdateProcedure.CheckResource" Value="檢查資源." />
+    <String Key="UpdateProcedure.UpdateProgress" Value="更新進度{0}/{1" />
+    <String Key="UpdateProcedure.NeedHowManyResoure" Value="需要更新資源{0}KB" />
+    <String Key="PreloadProcedure.PreloadData" Value="加載數據" />
+    <String Key="PreloadProcedure.AlertHead" Value="請佩戴耳機，享受最佳遊戲體驗" />
+  </Dictionary>
+  <Dictionary Language="Dutch" Font="AvenirNextCondensedRegular">
+    <String Key="BuiltinDialog.ConfirmButton" Value="Bevestigen" />
+    <String Key="BuiltinDialog.CancelButton" Value="Annuleren" />
+    <String Key="ForceUpdate.Message" Value="U huidige versie van het spel is verouderd, gaat het nu updaten?" />
+    <String Key="ForceUpdate.UpdateButton" Value="Update" />
+    <String Key="ForceUpdate.QuitButton" Value="Verlaat" />
+    <String Key="CheckVersion.Tips" Value="Updates controleren, wacht even....." />
+    <String Key="UpdateProcedure.RequestVersionInfo" Value="Versie-info Aanvragen....." />
+    <String Key="UpdateProcedure.GetResourceVersionFile" Value="Bron versie bestanden verkrijgen." />
+    <String Key="UpdateProcedure.CheckResource" Value="Bron controleren." />
+    <String Key="UpdateProcedure.UpdateProgress" Value="Update Voortgang {0}/{1}" />
+    <String Key="UpdateProcedure.NeedHowManyResoure" Value="Moet {0}KB bron updaten" />
+    <String Key="PreloadProcedure.PreloadData" Value="Gegevens laden" />
+    <String Key="PreloadProcedure.AlertHead" Value="Gebruik een oortelefoon voor een betere spelervaring" />
+  </Dictionary>
+  <Dictionary Language="French" Font="AvenirNextCondensedRegular">
+    <String Key="BuiltinDialog.ConfirmButton" Value="Confirmer" />
+    <String Key="BuiltinDialog.CancelButton" Value="Annuler" />
+    <String Key="ForceUpdate.Message" Value="La version actuelle du jeu est trop ancienne, souhaitez-vous accéder à la mise à jour?" />
+    <String Key="ForceUpdate.UpdateButton" Value="Mise à jour" />
+    <String Key="ForceUpdate.QuitButton" Value="Quitter" />
+    <String Key="CheckVersion.Tips" Value="Vérification de la mise à jour, veuillez patienter" />
+    <String Key="UpdateProcedure.RequestVersionInfo" Value="Demande des informations de version du jeu." />
+    <String Key="UpdateProcedure.GetResourceVersionFile" Value="Obtener le fichier de version de la ressource." />
+    <String Key="UpdateProcedure.CheckResource" Value="Vérifier les ressources." />
+    <String Key="UpdateProcedure.UpdateProgress" Value="Progression de la mise à jour {0} / {1}" />
+    <String Key="UpdateProcedure.NeedHowManyResoure" Value="Il faut mettre à jour {0} KB ressources" />
+    <String Key="PreloadProcedure.PreloadData" Value="Chargement des données" />
+    <String Key="PreloadProcedure.AlertHead" Value="Veuillez utiliser des écouteurs pour une meilleure expérience de jeu" />
+  </Dictionary>
+  <Dictionary Language="German" Font="AvenirNextCondensedRegular">
+    <String Key="BuiltinDialog.ConfirmButton" Value="Bestätigen" />
+    <String Key="BuiltinDialog.CancelButton" Value="Stornieren" />
+    <String Key="ForceUpdate.Message" Value="Ihre aktuelle Spielversion ist veraltet. Aktualisieren Sie sie jetzt?" />
+    <String Key="ForceUpdate.UpdateButton" Value="Aktualisieren" />
+    <String Key="ForceUpdate.QuitButton" Value="Exit" />
+    <String Key="CheckVersion.Tips" Value="Updates überprüfen, bitte warten Sie einen Moment ..." />
+    <String Key="UpdateProcedure.RequestVersionInfo" Value="Versionsinfo anfordern ..." />
+    <String Key="UpdateProcedure.GetResourceVersionFile" Value="Regressversionsdateien abrufen." />
+    <String Key="UpdateProcedure.CheckResource" Value="Rückgriff prüfen." />
+    <String Key="UpdateProcedure.UpdateProgress" Value="Aktualisierungsfortschritt {0}/{1}" />
+    <String Key="UpdateProcedure.NeedHowManyResoure" Value="Recourse muss aktualisiert werden {0} KB" />
+    <String Key="PreloadProcedure.PreloadData" Value="Lade Daten" />
+    <String Key="PreloadProcedure.AlertHead" Value="Bitte verwenden Sie Kopfhörer für ein besseres Spielerlebnis" />
+  </Dictionary>
+  <Dictionary Language="Italian" Font="AvenirNextCondensedRegular">
+    <String Key="BuiltinDialog.ConfirmButton" Value="Conferma" />
+    <String Key="BuiltinDialog.CancelButton" Value="Cancella" />
+    <String Key="ForceUpdate.Message" Value="La versione attuale è troppo antica. Vai ad aggiornarla?" />
+    <String Key="ForceUpdate.UpdateButton" Value="Aggiorna" />
+    <String Key="ForceUpdate.QuitButton" Value="Esci" />
+    <String Key="CheckVersion.Tips" Value="Sta verificando la sua versione. Si prega di aspettare..." />
+    <String Key="UpdateProcedure.RequestVersionInfo" Value="Chiedendo l'informazione sulla versione." />
+    <String Key="UpdateProcedure.GetResourceVersionFile" Value="Ottenere file di risorse..." />
+    <String Key="UpdateProcedure.CheckResource" Value="Controllando risorse" />
+    <String Key="UpdateProcedure.UpdateProgress" Value="Progresso di aggiornamento {0}/{1}" />
+    <String Key="UpdateProcedure.NeedHowManyResoure" Value="È necessario aggiornare {0} KB di risorse" />
+    <String Key="PreloadProcedure.PreloadData" Value="Dati in scaricamento" />
+    <String Key="PreloadProcedure.AlertHead" Value="Si prega di utilizzare le cuffie per la migliore esperienza" />
+  </Dictionary>
+  <Dictionary Language="Japanese" Font="AvenirNextCondensedRegular">
+    <String Key="BuiltinDialog.ConfirmButton" Value="確認" />
+    <String Key="BuiltinDialog.CancelButton" Value="キャンセル" />
+    <String Key="ForceUpdate.Message" Value="バージョンをアップデートしますか？" />
+    <String Key="ForceUpdate.UpdateButton" Value="アップデート" />
+    <String Key="ForceUpdate.QuitButton" Value="終了" />
+    <String Key="CheckVersion.Tips" Value="アップデートを確認中、お待ちください。" />
+    <String Key="UpdateProcedure.RequestVersionInfo" Value="バージョン情報をリクエスト中" />
+    <String Key="UpdateProcedure.GetResourceVersionFile" Value="リソースファイルのバージョンを取得中" />
+    <String Key="UpdateProcedure.CheckResource" Value="リソースをチェックしています." />
+    <String Key="UpdateProcedure.UpdateProgress" Value="アップデート中{0}/{1}" />
+    <String Key="UpdateProcedure.NeedHowManyResoure" Value="{0}KBのリソースをアップデート" />
+    <String Key="PreloadProcedure.PreloadData" Value="ローディング中" />
+    <String Key="PreloadProcedure.AlertHead" Value="イヤホンをして、ゲームをお楽しみください" />
+  </Dictionary>
+  <Dictionary Language="Russian" Font="AvenirNextCondensedRegular">
+    <String Key="BuiltinDialog.ConfirmButton" Value="Подтвердить" />
+    <String Key="BuiltinDialog.CancelButton" Value="Отменить" />
+    <String Key="ForceUpdate.Message" Value="Ваша текущая версия игры устарела, обновить сейчас?" />
+    <String Key="ForceUpdate.UpdateButton" Value="Обновить" />
+    <String Key="ForceUpdate.QuitButton" Value="Выйти" />
+    <String Key="CheckVersion.Tips" Value="Проверка обновлений, пожалуйста, подождите ..." />
+    <String Key="UpdateProcedure.RequestVersionInfo" Value="Запрос информации о версии ..." />
+    <String Key="UpdateProcedure.GetResourceVersionFile" Value="Получение файлов ресурсов ..." />
+    <String Key="UpdateProcedure.CheckResource" Value="Проверка ресурсов" />
+    <String Key="UpdateProcedure.UpdateProgress" Value="Процесс обновления {0}/{1}" />
+    <String Key="UpdateProcedure.NeedHowManyResoure" Value="Необходимо обновить ресурсы {0} КБ" />
+    <String Key="PreloadProcedure.PreloadData" Value="Загрузка данных" />
+    <String Key="PreloadProcedure.AlertHead" Value="Пожалуйста, используйте наушники для лучшего игрового опыта" />
+  </Dictionary>
+  <Dictionary Language="Spanish" Font="AvenirNextCondensedRegular">
+    <String Key="BuiltinDialog.ConfirmButton" Value="Confirmar" />
+    <String Key="BuiltinDialog.CancelButton" Value="Cancelar" />
+    <String Key="ForceUpdate.Message" Value="La versión actual es antigua,¿quieres ir a actualizar?" />
+    <String Key="ForceUpdate.UpdateButton" Value="Actualizar" />
+    <String Key="ForceUpdate.QuitButton" Value="Salir" />
+    <String Key="CheckVersion.Tips" Value="Se está revisando si es necesaria la actualización, espera..." />
+    <String Key="UpdateProcedure.RequestVersionInfo" Value="Se está pidiendo la información de versión" />
+    <String Key="UpdateProcedure.GetResourceVersionFile" Value="Se está obteniendo documentos de versión de recursos." />
+    <String Key="UpdateProcedure.CheckResource" Value="Se está revisando recursos" />
+    <String Key="UpdateProcedure.UpdateProgress" Value="Progreso de actualización: {0}/{1}" />
+    <String Key="UpdateProcedure.NeedHowManyResoure" Value="Se necesitan recursos de actualización {0} KB" />
+    <String Key="PreloadProcedure.PreloadData" Value="Cargando datos" />
+    <String Key="PreloadProcedure.AlertHead" Value="Por favor ponte los auriculares para disfrutar de la mejor experiencia" />
+  </Dictionary>
+  <Dictionary Language="Korean" Font="AvenirNextCondensedRegular">
+    <String Key="BuiltinDialog.ConfirmButton" Value="확인" />
+    <String Key="BuiltinDialog.CancelButton" Value="취소" />
+    <String Key="ForceUpdate.Message" Value="현재 버전이 너무 오래되었습니다. 업데이트하시겠습니까?" />
+    <String Key="ForceUpdate.UpdateButton" Value="업데이트" />
+    <String Key="ForceUpdate.QuitButton" Value="나가기" />
+    <String Key="CheckVersion.Tips" Value="업데이트해야 할지 확인 중입니다. 잠시 기다려 주세요.." />
+    <String Key="UpdateProcedure.RequestVersionInfo" Value="버전 정보 청구 중입니다." />
+    <String Key="UpdateProcedure.GetResourceVersionFile" Value="버전 파일 취급 중입니다." />
+    <String Key="UpdateProcedure.CheckResource" Value="리소스 확인" />
+    <String Key="UpdateProcedure.UpdateProgress" Value="업데이트 중 {0}/{1}" />
+    <String Key="UpdateProcedure.NeedHowManyResoure" Value="리소스 업데이트해야 합니다 {0}KB" />
+    <String Key="PreloadProcedure.PreloadData" Value="데이터 로드 중..." />
+    <String Key="PreloadProcedure.AlertHead" Value="좋은 게임 경험을 위해 핸드폰을 쓰세요" />
+  </Dictionary>
+</Dictionaries>

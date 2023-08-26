@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Samurai_water_bowen01
+  m_Shader: {fileID: 4800000, guid: 23544d7fc143d5c4fa47a78d23a6ea4a, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Add_tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: a77591301c0c56e459ba47e30c3b871a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _niuqu_tex:
+        m_Texture: {fileID: 2800000, guid: bf1b66c196db20d47b30f81b06abcf99, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _zhezhao:
+        m_Texture: {fileID: 2800000, guid: 75725d0dbefbf6c4d943fec5d8ffd3a0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Add_tex_v: 0
+    - _BaseSize: 3
+    - _BrightnessMultiplier: 1.12
+    - _Cutoff: 0.5
+    - _DistoritionPower: 10
+    - _Edge_daxiao: 0.01
+    - _FireSpeed: 1.25
+    - _Fre_fanwei: 0.56
+    - _Fre_qiangdu: 1.49
+    - _InnerStep: 1.59
+    - _InnerVerticalFalloff: 3.15
+    - _Main_strength: 4.26
+    - _Mask01_qiangdu: 0.37
+    - _Mask_fanwei: 1.32
+    - _NoiseScale: 0.095
+    - _Noisemultiplier: 9
+    - _Tex_liangdu: 3.98
+    - _edgetex1_speed: 0.3
+    - _edgetex2_speed: 0.2
+    - _field_edge_bright: 0.6
+    - _field_size: 7
+    - _neiyan_fanwei: 0.704
+    - _neiyan_liangdu: 1.17
+    - _niuqu_tex_v: 0.2
+    - _node_4540: 0
+    - _node_9666: 0.1608756
+    - _tex_size01: -0.1
+    - _tex_size02: -0.05
+    - _twistingstrength: 0.1
+    m_Colors:
+    - _Add_tex_color: {r: 0, g: 0, b: 0, a: 1}
+    - _Add_tex_uv: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Edge_color: {r: 1, g: 0.57991886, b: 0.19852942, a: 1}
+    - _Fre_color: {r: 0.012975773, g: 0.29411763, b: 0.20105, a: 1}
+    - _InnerColourBase: {r: 1, g: 0.7655172, b: 0, a: 1}
+    - _MainTex_UV: {r: 0, g: 0.3, b: 0, a: 0}
+    - _Main_speed: {r: 0, g: 0.1, b: 0, a: 0}
+    - _Man_tex_speed: {r: 0, g: 1, b: 0, a: 0}
+    - _OuterColourBase: {r: 1, g: 0.22758621, b: 0, a: 1}
+    - _Speed: {r: 0, g: -1, b: 0, a: 0}
+    - _Tex_color: {r: 1, g: 0.3638945, b: 0.1764706, a: 1}
+    - _TintColor: {r: 0.012975773, g: 0.29411763, b: 0.20105, a: 1}
+    - _UV: {r: 0, g: 0.15, b: 0, a: 0}
+    - _buttom_color: {r: 0, g: 0.1, b: 0.5, a: 1}
+    - _field_edge_color: {r: 1, g: 0.5, b: 1, a: 0.5}
+    - _neiyan_color: {r: 1, g: 0.60730225, b: 0.1102941, a: 1}
+    - _niuqu_tex_uv: {r: 0, g: 0.25, b: 0, a: 0}
+    - _node_6696: {r: 0, g: -1, b: 0, a: 0}
+    - _node_6735: {r: 0, g: 0, b: 0, a: 0}
+    - _node_9521: {r: 0, g: 0, b: 0, a: 0}
+    - _top_color: {r: 0.8, g: 0.7, b: 0.5, a: 1}

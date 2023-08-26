@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FuWen_Lan
+  m_Shader: {fileID: 4800000, guid: 34b8a05bbf119294bbe5ab0412855bdf, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DissolveMap:
+        m_Texture: {fileID: 2800000, guid: 17196b3edc198ed4a94d3b84b027d5e6, type: 3}
+        m_Scale: {x: 0.1, y: 0.1}
+        m_Offset: {x: 1, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: b04c145f6f470084ab0a458cd525ac49, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Blend: 1
+    - _BlendCutOff: 0
+    - _BlendPower: 8
+    - _BrightnessOffset: 0.73
+    - _BumpScale: 1
+    - _CenterOffset: 0.55
+    - _Cull: 0
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DiffusePower: 1
+    - _DissolveRange: 0.03
+    - _DstBlend: 0
+    - _Emmission: 0.25
+    - _EnableCutOff: 0
+    - _EnableReverse: 0
+    - _FadeOutRange: 2.2
+    - _Gloss: 8
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _ModelHeight: 1.1
+    - _ModelY: -7.94
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Progress: 0
+    - _Range: 1
+    - _ScrollXSpeed: 0
+    - _ScrollXSpeed1: 0
+    - _ScrollYSpeed: 0
+    - _ScrollYSpeed1: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SpecularPower: 0
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _VLength: 52
+    - _ZPositiveDir: 0
+    - _ZWrite: 1
+    - _color_v: 1.4
+    - _rongjie_power: 0
+    m_Colors:
+    - _Color: {r: 0.089532875, g: 0.40931278, b: 0.6764706, a: 1}
+    - _Color1: {r: 0, g: 0.42068958, b: 1, a: 0.903}
+    - _Color2: {r: 0.09158736, g: 0.3697948, b: 0.5661765, a: 0}
+    - _ColorB: {r: 0.23004974, g: 0.41258872, b: 0.8455882, a: 0}
+    - _ColorR: {r: 0.36764705, g: 0.5028397, b: 1, a: 0.303}
+    - _DissolveEdgeInnerColor: {r: 0.16592777, g: 0.5123823, b: 0.6838235, a: 0.11764706}
+    - _DissolveEdgeOutterColor: {r: 1, g: 1, b: 1, a: 0.118}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FakeLightColor: {r: 0.6784314, g: 0.75294125, b: 0.8117648, a: 1}
+    - _FakeLightDir: {r: 0.04, g: 0.44, b: -0.7, a: 0}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}

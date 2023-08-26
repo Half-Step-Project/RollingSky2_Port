@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  serializedVersion: 10
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Jazz_Midground_Danhuangguan
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 96
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 34
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 2.9802322E-08}
+      m_Extent: {x: 1.6505585, y: 1.6505585, z: 0.50000024}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: []
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: []
+  m_MeshCompression: 2
+  m_IsReadable: 0
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer:
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 102
+      m_Range: 3.301117
+      m_Start: -1.6505585
+      m_Data: fbb0be093959ff7f0000c6a6ff7f00003959fbb0be09c6a682da7d25395982da7d25c6a641f6044f395941f6044fc6a6ffff00803959ffff0080c6a641f6fbb0395941f6fbb0c6a682da82da395982da82dac6a6fbb041f63959fbb041f6c6a60080ffff39590080ffffc6a6044f41f63959044f41f6c6a67d2582da39597d2582dac6a6be09fbb03959be09fbb0c6a60000ff7f39590000ff7fc6a6be09044f3959be09044fc6a67d257d2539597d257d25c6a6044fbe093959044fbe09c6a6ff7f00003959ff7f0000c6a6
+      m_BitSize: 16
+    m_UV:
+      m_NumItems: 68
+      m_Range: 0.97972834
+      m_Start: 0.0086613195
+      m_Data: 40ec07006600ec07046680ec070866c0ec070c6600ed07106640ed07146680ed071866c0ed071c6600eef71f663feef723667feef72766bfeef72b66ffeef72f663feff733667feff73766bfeff73b66ffeff73f66
+      m_BitSize: 10
+    m_Normals:
+      m_NumItems: 68
+      m_Range: 1.9999847
+      m_Start: -0.9999924
+      m_Data: b00a80008000b00ada25da25f54ff54fff80ff80f5b0f5b0dadadadab0f5b0f580ff80ff4ff54ff525da25da0ab00ab0008000800a4f0a4f252525254f0a4f0a80008000
+      m_BitSize: 8
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 34
+      m_Data: 09cccccc00
+      m_BitSize: 1
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 96
+      m_Data: 40200043400c00510c46411847811c06921c4a82284bc22c0ad32c4ec3384f033d0e143d52044953444d12554d56455957855d16965d5a86695bc66d1ad76d5ec7795f077e1e187e
+      m_BitSize: 6
+    m_UVInfo: 5
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 2.9802322E-08}
+    m_Extent: {x: 1.6505585, y: 1.6505585, z: 0.50000024}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshMetrics[0]: 110.61816
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: -1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path:

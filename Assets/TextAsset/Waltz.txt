@@ -1,0 +1,6 @@
+Assets/_RS2Art/Res/Base/Music/Fantasia_Waltz.wav
+Assets/_RS2Art/Res/Base/RoleConfigure/RoleWaltz1.asset
+Assets/_RS2Art/Res/Prefab/Roles/RoleWaltz1.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropShield.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropRebirth.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropPathGuide.prefab

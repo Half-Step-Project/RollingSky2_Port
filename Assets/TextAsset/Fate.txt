@@ -1,0 +1,7 @@
+Assets/_RS2Art/Res/Base/Music/Fate_Fate.wav
+Assets/_RS2Art/Res/Base/RoleConfigure/RoleDestiny.asset
+Assets/_RS2Art/Res/Prefab/Roles/RoleDestiny.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropShield.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropRebirth.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropPathGuide.prefab
+Assets/_RS2Art/Res/Prefab/Backgrounds/Back_Fate_Sky.prefab

@@ -1,0 +1,7 @@
+Assets/_RS2Art/Res/Base/Music/Thief_Thief_2.wav
+Assets/_RS2Art/Res/Base/RoleConfigure/RoleThief2_01.asset
+Assets/_RS2Art/Res/Prefab/Roles/RoleThief2_01.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropShield.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropRebirth.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropPathGuide.prefab
+Assets/_RS2Art/Res/Prefab/Couples/CoupleThief2.prefab

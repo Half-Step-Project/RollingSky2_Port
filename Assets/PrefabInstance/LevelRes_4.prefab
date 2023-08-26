@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+PrefabInstance:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_RootGameObject: {fileID: 1579920888485259}
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+--- !u!1 &1579920888485259
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4825296810733630}
+  - component: {fileID: 114534660775073430}
+  m_Layer: 0
+  m_Name: LevelRes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4825296810733630
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579920888485259}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114534660775073430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 100100000}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579920888485259}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aabb3a4cea85b647abe3fe131eadba4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  m_LevelResourceTable: {fileID: 4900000, guid: b8cf99f51c76c6b40b24507f9b692959, type: 3}
+  m_Tilemap: {fileID: 11400000, guid: 5790be8711fd0c1409aea63dabf69d3a, type: 2}
+  m_worldConfigureTable: {fileID: 11400000, guid: dbddf7f8fcaab704da72a74646346b45, type: 2}
+  m_originRebirthData: {fileID: 11400000, guid: 4999cfc7f0a5c6b41ae9bc9ac16d517c, type: 2}
+  m_rolePathTable: {fileID: 11400000, guid: 1c0b607f46442bf4ca783ea2c94f0810, type: 2}

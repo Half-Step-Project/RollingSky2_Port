@@ -1,0 +1,16 @@
+public enum ShopType
+{
+	COMMON = 1,
+	ROLE = 2,
+	PET = 3,
+	CLOTH = 4,
+	MONEY = 5,
+	POWER = 7,
+	REBIRTH = 8,
+	BASICPACKAGE = 9,
+	ABILITYPACKAGE = 10,
+	HOURGLASSPROP = 11,
+	ABILITYPROP = 12,
+	REMOVEAD = 13,
+	GuideLine = 14
+}

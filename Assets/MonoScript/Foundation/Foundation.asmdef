@@ -1,0 +1,8 @@
+{
+  "name": "Foundation",
+  "references": [
+    "ICSharpCode.SharpZipLib",
+    "LitJson"
+  ],
+  "allowUnsafeCode": true
+}

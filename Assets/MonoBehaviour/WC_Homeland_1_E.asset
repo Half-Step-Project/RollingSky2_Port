@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a55efa6b0794bf041b50e8497e0b715c, type: 3}
+  m_Name: WC_Homeland_1_E
+  m_EditorClassIdentifier:
+  m_worldStartInfo:
+    m_roleIndex: 6
+    m_StartAnimTime: 4.5
+    m_EndAnimTime: 0.5
+    m_BackgroundIndex: 4
+    m_preloadRoleIndexList: 06000000
+    CoupleRoleIndex: 0
+    m_ifLerpEmission: 0
+    m_delayEmissionTime: 0
+    m_lerpEmissionTime: 0
+    m_beginEmissionValue: 0
+    m_endEmissionValue: 0
+    m_levelDeltaLength: -8
+    m_petID: 2
+    m_showRow: 65
+    m_fairyStartRunDelay: 4.5
+  m_defaultThemeIndex: 0
+  m_themes:
+  - m_index: 0
+    m_timeTaken: 2
+    m_themeLight:
+      m_isLight: 0
+      m_lightColor: {r: 0.9662272, g: 1, b: 0.9338235, a: 0}
+      m_intensity: 1
+      m_shadowStrength: 1
+      m_rotation: {x: 22.75796, y: 121.436, z: 352.98825}
+      m_ifLightOn: 0
+    m_themeFog:
+      m_isFog: 1
+      m_fogColor: {r: 0.87181014, g: 0.9136089, b: 0.9485294, a: 1}
+      m_fogStartDistance: 60
+      m_fogEndDistance: 100
+    m_themeCamera:
+      m_isCameraColor: 1
+      m_backGround: {r: 0.81066173, g: 0.9045718, b: 0.9264706, a: 0}
+    m_themeSkyBox:
+      m_isSkyBox: 1
+      m_SkyBoxMaterial: {fileID: 0}
+      m_BlendLerp: 0
+      m_skyColor: {r: 0.6666667, g: 0.69411767, b: 0.9647059, a: 1}
+      m_EquatorColor: {r: 0.38039216, g: 0.58431375, b: 0.67058825, a: 1}
+      m_GroundColor: {r: 0.22352941, g: 0.44705883, b: 0.4117647, a: 1}
+      m_ReflectionIntensity: 1
+      m_Cubemap: {fileID: 0}
+  - m_index: 1
+    m_timeTaken: 2
+    m_themeLight:
+      m_isLight: 0
+      m_lightColor: {r: 0.9338235, g: 0.9338235, b: 0.9338235, a: 0}
+      m_intensity: 1
+      m_shadowStrength: 1
+      m_rotation: {x: 22.75796, y: 121.436, z: 352.98825}
+      m_ifLightOn: 0
+    m_themeFog:
+      m_isFog: 1
+      m_fogColor: {r: 0.87058824, g: 0.9137255, b: 0.9490196, a: 1}
+      m_fogStartDistance: 50
+      m_fogEndDistance: 100
+    m_themeCamera:
+      m_isCameraColor: 1
+      m_backGround: {r: 0.71323526, g: 0.71323526, b: 0.71323526, a: 1}
+    m_themeSkyBox:
+      m_isSkyBox: 1
+      m_SkyBoxMaterial: {fileID: 0}
+      m_BlendLerp: 0
+      m_skyColor: {r: 0.6666667, g: 0.69411767, b: 0.9647059, a: 1}
+      m_EquatorColor: {r: 0.38039216, g: 0.58431375, b: 0.67058825, a: 1}
+      m_GroundColor: {r: 0.22352941, g: 0.44705883, b: 0.4117647, a: 1}
+      m_ReflectionIntensity: 1
+      m_Cubemap: {fileID: 0}
+  - m_index: 2
+    m_timeTaken: 2
+    m_themeLight:
+      m_isLight: 0
+      m_lightColor: {r: 0.9662272, g: 1, b: 0.9338235, a: 0}
+      m_intensity: 1
+      m_shadowStrength: 1
+      m_rotation: {x: 22.75796, y: 121.436, z: 352.98825}
+      m_ifLightOn: 0
+    m_themeFog:
+      m_isFog: 1
+      m_fogColor: {r: 0.87058824, g: 0.9137255, b: 0.9490196, a: 1}
+      m_fogStartDistance: 60
+      m_fogEndDistance: 220
+    m_themeCamera:
+      m_isCameraColor: 1
+      m_backGround: {r: 0.8117647, g: 0.90588236, b: 0.9254902, a: 0}
+    m_themeSkyBox:
+      m_isSkyBox: 1
+      m_SkyBoxMaterial: {fileID: 0}
+      m_BlendLerp: 0
+      m_skyColor: {r: 0.6666667, g: 0.69411767, b: 0.9647059, a: 1}
+      m_EquatorColor: {r: 0.38039216, g: 0.58431375, b: 0.67058825, a: 1}
+      m_GroundColor: {r: 0.22352941, g: 0.44705883, b: 0.4117647, a: 1}
+      m_ReflectionIntensity: 1
+      m_Cubemap: {fileID: 0}

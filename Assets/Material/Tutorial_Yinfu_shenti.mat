@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tutorial_Yinfu_shenti
+  m_Shader: {fileID: 4800000, guid: 06c899edae84ac146a524b1507f83bce, type: 3}
+  m_ShaderKeywords: ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FRESNEL ENABLE_RIM
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap:
+  - RenderType: Opaque
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AmbientColorPower: 0.3
+    - _Cull: 2
+    - _DiffusePower: 1.62
+    - _DstBlend: 0
+    - _Emmission: 0.33
+    - _EnableCurvedWorld: 0
+    - _EnableDiffuse: 1
+    - _EnableFog: 0
+    - _EnableFresnel: 1
+    - _EnableRim: 1
+    - _EnableSpecular: 0
+    - _EnableVertexColor: 0
+    - _FakeLight: 1
+    - _FresnelPower: 2.34
+    - _FresnelScale: 0.2
+    - _Gloss: 8.06
+    - _Mode: 0
+    - _RimAllPower: 3.5
+    - _RimAlpha: 0.67
+    - _RimAlphaPower: 3.2
+    - _RimInnerColorPower: 0.695
+    - _RimPower: 0
+    - _SpecularPower: 2.3
+    - _SrcBlend: 1
+    - _ZTest: 4
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FakeLightColor: {r: 0.77205884, g: 0.8773834, b: 1, a: 1}
+    - _FakeLightDir: {r: 2.9, g: 52.1, b: 6.62, a: 73.15}
+    - _FresnelColor: {r: 0.7725491, g: 0.87843144, b: 1, a: 1}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 0.5}
+    - _RimInnerColor: {r: 0.08627451, g: 0.08627451, b: 0.08627451, a: 0.5}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}

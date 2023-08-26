@@ -1,0 +1,7 @@
+Assets/_RS2Art/Res/Base/Music/StarryDream_StarryDream.wav
+Assets/_RS2Art/Res/Base/RoleConfigure/RoleDream.asset
+Assets/_RS2Art/Res/Prefab/Roles/RoleDream.prefab
+Assets/_RS2Art/Res/Prefab/Pets/PetStar.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropShield.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropPathGuide.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropRebirth.prefab

@@ -1,0 +1,332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!200 &20000000
+ShaderVariantCollection:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShaderVariants
+  m_Shaders:
+  - first: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: UNITY_UI_ALPHACLIP
+        passType: 0
+  - first: {fileID: 200, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: FOG_LINEAR
+        passType: 0
+  - first: {fileID: 203, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: FOG_LINEAR
+        passType: 0
+  - first: {fileID: 207, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 9000, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 9001, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 9002, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 10721, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: FOG_LINEAR
+        passType: 0
+  - first: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: FOG_LINEAR
+        passType: 0
+  - first: {fileID: 4800000, guid: 891ee7bf6af1bfe4397d1de94280cdbe, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTMAP_ON
+        passType: 0
+      - keywords: DIRECTIONAL FOG_LINEAR LIGHTMAP_ON
+        passType: 0
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+  - first: {fileID: 4800000, guid: 1921d8d2ad7ca7840b64e433410bcbf7, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 129c1f24f6d34824eadb8e249c195dfc, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTPROBE_SH
+        passType: 4
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+  - first: {fileID: 4800000, guid: 07d157dadf517ce49b5b7ab6e5bc3f63, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: FOG_LINEAR
+        passType: 0
+  - first: {fileID: 4800000, guid: 8113994d1db7d0c4d8219402cea9aa5b, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 06c899edae84ac146a524b1507f83bce, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_LINEAR
+        passType: 4
+      - keywords: DIRECTIONAL FOG_LINEAR LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL FOG_LINEAR LIGHTPROBE_SH SHADOWS_SCREEN
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD FOG_LINEAR LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE FOG_LINEAR LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_FOG FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_FOG LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_FOG LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_FOG FOG_LINEAR LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_FOG FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FOG LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FOG LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FOG FOG_LINEAR LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FOG FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG FOG_LINEAR LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_FRESNEL FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FOG ENABLE_FRESNEL FOG_LINEAR LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FOG ENABLE_FRESNEL FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_FAKE_LIGHTING ENABLE_FRESNEL LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_FAKE_LIGHTING ENABLE_FRESNEL FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FRESNEL FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FRESNEL FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_FRESNEL FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_FRESNEL LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_FRESNEL LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_FRESNEL FOG_LINEAR LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_FRESNEL FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_FOG ENABLE_SPECULAR LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_FOG ENABLE_SPECULAR FOG_LINEAR LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_FAKE_LIGHTING ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_SPECULAR LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_SPECULAR FOG_LINEAR LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FOG ENABLE_FRESNEL ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_FAKE_LIGHTING ENABLE_FRESNEL ENABLE_SPECULAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_FAKE_LIGHTING ENABLE_FRESNEL ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FRESNEL ENABLE_SPECULAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FRESNEL ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FRESNEL ENABLE_SPECULAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FRESNEL ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_FRESNEL ENABLE_SPECULAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_FRESNEL ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_FRESNEL ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_FRESNEL ENABLE_SPECULAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_FRESNEL ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_FRESNEL ENABLE_SPECULAR ENABLE_VERTEX_COLOR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_CURVED_WORLD ENABLE_DIFFUSE ENABLE_FOG ENABLE_RIM FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FRESNEL ENABLE_RIM LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FRESNEL ENABLE_RIM FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_RIM ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_RIM ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_FRESNEL ENABLE_RIM ENABLE_SPECULAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: DIRECTIONAL ENABLE_DIFFUSE ENABLE_FAKE_LIGHTING ENABLE_FOG ENABLE_FRESNEL ENABLE_RIM ENABLE_SPECULAR FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+      - keywords: ENABLE_CURVED_WORLD SHADOWS_DEPTH
+        passType: 8
+  - first: {fileID: 4800000, guid: e0edb4109bde73244a9c4a69d69d0b96, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTMAP_ON
+        passType: 0
+      - keywords: DIRECTIONAL FOG_LINEAR
+        passType: 0
+      - keywords: DIRECTIONAL FOG_LINEAR LIGHTMAP_ON
+        passType: 0
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+  - first: {fileID: 4800000, guid: 9fd51554c274e724cb98cfad971eca10, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: ca032700d241b0746901cec05552343a, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: FOG_LINEAR
+        passType: 0
+  - first: {fileID: 4800000, guid: a4c98096285ecb644940a83f3d5aa633, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: FOG_LINEAR
+        passType: 0
+      - keywords: ENABLE_FOG FOG_LINEAR
+        passType: 0
+  - first: {fileID: 4800000, guid: a20a51ba10eaf9540aba8eb1485bac8e, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: FOG_LINEAR
+        passType: 0
+      - keywords: ENABLE_FOG
+        passType: 0
+      - keywords: ENABLE_FOG FOG_LINEAR
+        passType: 0
+  - first: {fileID: 4800000, guid: 6f90917d4e91ba345bae251e765b0e9d, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTMAP_ON
+        passType: 4
+      - keywords: DIRECTIONAL LIGHTPROBE_SH
+        passType: 4
+  - first: {fileID: 4800000, guid: f0b621cc9b42a0247a9383c573f513d1, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 42b7ab01b1dca874aa22eaef81ebacf0, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: FOG_LINEAR
+        passType: 0
+      - keywords: ENABLE_FOG
+        passType: 0
+      - keywords: ENABLE_FOG FOG_LINEAR
+        passType: 0
+  - first: {fileID: 4800000, guid: 892f990a218443043933e7554ed7cabd, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: ENABLE_GREY_SCALE
+        passType: 0
+  - first: {fileID: 4800000, guid: 01a01b33ba784e54c9a547e40724c87f, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: FOG_LINEAR
+        passType: 0
+  - first: {fileID: 4800000, guid: 968b13bcd9c5b5c4dbd76a65f29933f7, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: SHADOWS_DEPTH
+        passType: 8

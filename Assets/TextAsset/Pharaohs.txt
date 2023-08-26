@@ -1,0 +1,9 @@
+Assets/_RS2Art/Res/Base/Music/Pharaohs_Pharaohs.wav
+Assets/_RS2Art/Res/Base/RoleConfigure/RolePharaohsSleep.asset
+Assets/_RS2Art/Res/Prefab/Roles/RolePharaohsSleep.prefab
+Assets/_RS2Art/Res/Base/RoleConfigure/RolePharaohs.asset
+Assets/_RS2Art/Res/Prefab/Roles/RolePharaohs.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropShield.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropRebirth.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropPathGuide.prefab
+Assets/_RS2Art/Res/Prefab/Backgrounds/Back_Desert_Sky.prefab

@@ -1,0 +1,8 @@
+Assets/_RS2Art/Res/Base/Music/Level_0.mp3
+Assets/_RS2Art/Res/Base/RoleConfigure/RoleTutorial.asset
+Assets/_RS2Art/Res/Prefab/Roles/RoleTutorial.prefab
+Assets/_RS2Art/Res/Base/RoleConfigure/RoleDestinyTutorial.asset
+Assets/_RS2Art/Res/Prefab/Roles/RoleDestinyTutorial.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropShield.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropPathGuide.prefab
+Assets/_RS2Art/Res/Prefab/Props/PropRebirth.prefab

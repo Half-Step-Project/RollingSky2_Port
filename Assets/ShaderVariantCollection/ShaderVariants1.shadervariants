@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!200 &20000000
+ShaderVariantCollection:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShaderVariants1
+  m_Shaders:
+  - first: {fileID: 66, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+  - first: {fileID: 10750, guid: 0000000000000000f000000000000000, type: 0}
+    second:
+      variants:
+      - keywords: FOG_LINEAR
+        passType: 0
+  - first: {fileID: 4800000, guid: b91814e6ad86b4a4090e4c2b865e8553, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: ANTI_FLICKER
+        passType: 0
+  - first: {fileID: 4800000, guid: d110c473a9a50ef42a510b67275049c5, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL FOG_LINEAR LIGHTPROBE_SH
+        passType: 4
+  - first: {fileID: 4800000, guid: 1278152117eba204d9a88b80924c1d87, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 4
+  - first: {fileID: 4800000, guid: 9afa55db4a734ff4d8fd003372722e2e, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 2397843f6101fa44c9a6fb47604314fa, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTPROBE_SH
+        passType: 4
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+  - first: {fileID: 4800000, guid: 4ff4a2d49c83f0147a17a2e47c50e7a6, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL _SHAPE_CIRCLE
+        passType: 0
+      - keywords: DIRECTIONAL FOG_LINEAR _SHAPE_CIRCLE
+        passType: 0
+      - keywords: DIRECTIONAL ENABLE_FRESNEL _SHAPE_CIRCLE
+        passType: 0
+      - keywords: DIRECTIONAL ENABLE_FRESNEL FOG_LINEAR _SHAPE_CIRCLE
+        passType: 0
+      - keywords: DIRECTIONAL _SHAPE_CIRCLE _VERTEXCOLOR_ON
+        passType: 0
+      - keywords: DIRECTIONAL FOG_LINEAR _SHAPE_CIRCLE _VERTEXCOLOR_ON
+        passType: 0
+      - keywords: DIRECTIONAL ENABLE_FRESNEL FOG_LINEAR _SHAPE_CIRCLE _VERTEXCOLOR_ON
+        passType: 0
+      - keywords: DIRECTIONAL _SHAPE_NONE
+        passType: 0
+      - keywords: DIRECTIONAL FOG_LINEAR _SHAPE_NONE
+        passType: 0
+      - keywords: DIRECTIONAL ENABLE_FRESNEL _SHAPE_NONE
+        passType: 0
+      - keywords: DIRECTIONAL ENABLE_FRESNEL FOG_LINEAR _SHAPE_NONE
+        passType: 0
+      - keywords: DIRECTIONAL _SHAPE_NONE _VERTEXCOLOR_ON
+        passType: 0
+      - keywords: DIRECTIONAL FOG_LINEAR _SHAPE_NONE _VERTEXCOLOR_ON
+        passType: 0
+      - keywords: DIRECTIONAL _SHAPE_FORWARD
+        passType: 0
+      - keywords: DIRECTIONAL LIGHTMAP_ON _SHAPE_FORWARD
+        passType: 0
+      - keywords: DIRECTIONAL FOG_LINEAR _SHAPE_FORWARD
+        passType: 0
+      - keywords: DIRECTIONAL FOG_LINEAR LIGHTMAP_ON _SHAPE_FORWARD
+        passType: 0
+      - keywords: DIRECTIONAL _SHAPE_LIGHTMAP
+        passType: 0
+      - keywords: DIRECTIONAL LIGHTMAP_ON _SHAPE_LIGHTMAP
+        passType: 0
+      - keywords: DIRECTIONAL FOG_LINEAR _SHAPE_LIGHTMAP
+        passType: 0
+      - keywords: DIRECTIONAL FOG_LINEAR LIGHTMAP_ON _SHAPE_LIGHTMAP
+        passType: 0
+  - first: {fileID: 4800000, guid: fb8646b92b8d4e34f8a10f59521a0c52, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTPROBE_SH
+        passType: 4
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+  - first: {fileID: 4800000, guid: c9e536e7fa033294c9907b544dcb0322, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL
+        passType: 0
+      - keywords: DIRECTIONAL FOG_LINEAR
+        passType: 0
+  - first: {fileID: 4800000, guid: d450532eede590a48acdacf4cc6125d5, type: 3}
+    second:
+      variants:
+      - keywords: BLOOM UNITY_COLORSPACE_GAMMA
+        passType: 0
+  - first: {fileID: 4800000, guid: 8b26e7d5836dfd645b5ac0a20d03c278, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 13a80150fa46c0543bdd2918462fbd1d, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTPROBE_SH
+        passType: 4
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+  - first: {fileID: 4800000, guid: cd79c5d134b11e540ba151739e74cea6, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+  - first: {fileID: 4800000, guid: 97df0758c64d6bb41b01375a0de21e41, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: ENABLE_CUTOFF
+        passType: 0
+  - first: {fileID: 4800000, guid: 3ee4bd45ef63e9a4589265937a3a3601, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: FOG_LINEAR
+        passType: 0
+  - first: {fileID: 4800000, guid: 08c371be435428b42974c4e539404507, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 0
+      - keywords: FOG_LINEAR
+        passType: 0
+  - first: {fileID: 4800000, guid: 57a2e8ab085c29440b1a70b170091d2f, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTPROBE_SH
+        passType: 4
+      - keywords: SHADOWS_DEPTH
+        passType: 8
+  - first: {fileID: 4800000, guid: a244d30c6354e8b49806392d3dda1d0b, type: 3}
+    second:
+      variants:
+      - keywords: DIRECTIONAL LIGHTPROBE_SH
+        passType: 4
+  - first: {fileID: 4800000, guid: 8620cf7f14aceba4a9c4ebcf5bcb8424, type: 3}
+    second:
+      variants:
+      - keywords:
+        passType: 4

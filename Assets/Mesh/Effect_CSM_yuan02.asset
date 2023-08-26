@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  serializedVersion: 10
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Effect_CSM_yuan02
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 96
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 25
+    localAABB:
+      m_Center: {x: 0.008695543, y: -0.019847572, z: 2.365951E-09}
+      m_Extent: {x: 0.60756636, y: 0.6032773, z: 1.2311694E-08}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: []
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: []
+  m_MeshCompression: 2
+  m_IsReadable: 0
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer:
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 75
+      m_Range: 1.2393868
+      m_Start: -0.6231249
+      m_Data: 474da508b580350ad950b580f219df22b580db450a44b580b4800000b58002053e80b580ee80d13fb58020b40609b5806743e97eb580660af2aeb5808cbc3744b58072e7ce23b580d2f94751b5800581827eb580f045d8b8b580691ad5dab5807b4d70f1b58061bf137fb580ffffa780b580fa8040bcb580d28037f9b580a2bc40b9b58003faf1afb58055b462f2b580eae72addb580
+      m_BitSize: 16
+    m_UV:
+      m_NumItems: 50
+      m_Range: 1
+      m_Start: 0
+      m_Data: ff02f03f40ff03f02f400002f03f800002041000ff02f8ffbf00010400000000042080fffefbfffffffe0f1080000008e0bf00fe0fd0bf00fc0bd0ff00fc0f
+      m_BitSize: 10
+    m_Normals:
+      m_NumItems: 50
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 25
+      m_Data: ffffff01
+      m_BitSize: 1
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 100
+      m_Range: 1
+      m_Start: 0
+      m_Data: ffff03ffff03ffff03ffffffffff03ffff03ffffffffff03ffffffffff03ffffffffff03ffff03ffffffffffffffff03ffff03ffffffffff03ffffffffff03ffffffffff03ffff03ffff03
+      m_BitSize: 6
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 96
+      m_Data: 2008300219609440cc38860c540c1a2895a3cc526731651a52cd20979a43ee25071f8b4ac5c6646cd34de8e26c93425963acb3d2296dad97da5b2dbe
+      m_BitSize: 5
+    m_UVInfo: 5
+  m_LocalAABB:
+    m_Center: {x: 0.008695543, y: -0.019847572, z: 2.365951E-09}
+    m_Extent: {x: 0.60756636, y: 0.6032773, z: 1.2311694E-08}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshMetrics[0]: 1.3620564
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: -1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path:

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!241 &24100000
+AudioMixerController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MultiPathMix
+  m_OutputGroup: {fileID: 0}
+  m_MasterGroup: {fileID: 24300000, guid: 3cf7786c9d51518469b70a092b38b8a0, type: 2}
+  m_Snapshots:
+  - {fileID: 24500000, guid: 5243af89945fd59419b445c8d5c19938, type: 2}
+  - {fileID: 24500000, guid: ed537229302748d409c99d7dc0a76eec, type: 2}
+  - {fileID: 24500000, guid: 90009ff170560a947914c0f2eb29284f, type: 2}
+  m_StartSnapshot: {fileID: 24500000, guid: 5243af89945fd59419b445c8d5c19938, type: 2}
+  m_SuspendThreshold: -80
+  m_EnableSuspend: 1
+  m_UpdateMode: 0
+  m_ExposedParameters: []
+  m_AudioMixerGroupViews: []
+  m_CurrentViewIndex: 0
+  m_TargetSnapshot: {fileID: 0}

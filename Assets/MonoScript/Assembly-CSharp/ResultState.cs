@@ -1,0 +1,8 @@
+public enum ResultState
+{
+	NONE = -1,
+	SUCCESS,
+	GOOD_NOT_ENOUGH,
+	MESSION_NOT_FINISH,
+	IS_GOING_CD
+}

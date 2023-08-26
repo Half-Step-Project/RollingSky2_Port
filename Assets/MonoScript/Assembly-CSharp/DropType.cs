@@ -1,0 +1,9 @@
+public enum DropType
+{
+	NONE = 0,
+	DIAMOND = 2,
+	CROWN = 4,
+	DIAMONDFRAGMENT = 8,
+	CROWNFRAGMENT = 0x10,
+	TRIGGERFRAGMENT = 0x20
+}
