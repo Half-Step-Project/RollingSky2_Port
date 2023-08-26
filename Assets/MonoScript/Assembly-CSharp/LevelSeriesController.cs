@@ -231,6 +231,7 @@ public class LevelSeriesController : MonoBehaviour
 		{
 			targetPosition = new Vector3(levelBgTransformInfo[2], levelBgTransformInfo[3], m_index * 10);
 			modelObj.transform.localScale = new Vector3(levelBgTransformInfo[0], levelBgTransformInfo[1], 1f);
+			print("BG 3D Size : CMInfo");
 		}
 		else
 		{
@@ -250,6 +251,7 @@ public class LevelSeriesController : MonoBehaviour
 			}
 			float num9 = num6;
 			modelObj.transform.localScale = new Vector3(num9, num9, 1f);
+			print("BG 3D Size : RTAdapt");
 		}
 		modelObj.transform.localPosition = targetPosition;
 		rightPosition = new Vector3(1f, modelObj.transform.localPosition.y, m_index * 10);
