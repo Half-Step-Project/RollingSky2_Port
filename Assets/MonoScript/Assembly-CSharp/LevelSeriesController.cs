@@ -227,16 +227,16 @@ public class LevelSeriesController : MonoBehaviour
 	{
 		m_HomeForm.SetLevelBgContainer(modelObj.transform);
 		float[] levelBgTransformInfo = GetLevelBgTransformInfo(GetSeriesId());
-		if (levelBgTransformInfo != null && levelBgTransformInfo.Length != 0)
+		/*if (levelBgTransformInfo != null && levelBgTransformInfo.Length != 0)
 		{
 			targetPosition = new Vector3(levelBgTransformInfo[2], levelBgTransformInfo[3], m_index * 10);
 			modelObj.transform.localScale = new Vector3(levelBgTransformInfo[0], levelBgTransformInfo[1], 1f);
 			print("BG 3D Size : CMInfo");
 		}
-		else
+		else*/
 		{
 			targetPosition = new Vector3(0f, 0f, m_index * 10);
-			float num = 720f;
+			/*float num = 720f;
 			float num2 = 1280f;
 			float num3 = num / num2;
 			float num4 = (float)Screen.width * 1f;
@@ -250,7 +250,12 @@ public class LevelSeriesController : MonoBehaviour
 				num6 *= num8;
 			}
 			float num9 = num6;
-			modelObj.transform.localScale = new Vector3(num9, num9, 1f);
+			modelObj.transform.localScale = new Vector3(num9, num9, 1f);*/
+
+			const float factor = 3.317557f;
+			var delta = (float)Screen.width / Screen.height / (16f / 9);
+			if (delta >= 1) modelObj.transform.localScale = new Vector3(factor, factor * delta, 1f);
+			else modelObj.transform.localScale = new Vector3(factor / 9 * 16 / Screen.width * Screen.height, factor, 1f);
 			print("BG 3D Size : RTAdapt");
 		}
 		modelObj.transform.localPosition = targetPosition;
